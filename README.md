@@ -1,2 +1,1 @@
-# sample
-Sample Repo
+# Sample Repo
